@@ -6,7 +6,7 @@ export default function Header({ menuOpen, onOpenMenu, onCloseMenu }) {
       <header className="site-header">
         <div className="nav-wrap">
           <a className="brand" href="#home">
-            KHALIL NUR KHALIL
+            KHALINK
           </a>
           <nav className="desktop-nav">
             {navLinks.map(([label, id]) => (
